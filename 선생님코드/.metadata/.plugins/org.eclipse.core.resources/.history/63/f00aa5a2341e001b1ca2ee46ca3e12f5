@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<form action="HobbyServlet">
+		<input type="text" name="name"/>
+		<input type="checkbox" name="hobby" value="축구"/>
+		<input type="checkbox" name="hobby" value="축구"/>
+		<input type="checkbox" name="hobby" value="축구"/>
+		<input type="checkbox" name="hobby" value="축구"/>
+		<input type="checkbox" name="hobby" value="축구"/>
+		<input type="checkbox" name="hobby" value="축구"/>
+		<input type="checkbox" name="hobby" value="축구"/>
+		<input type="checkbox" name="hobby" value="축구"/>
+	</form>
+</body>
+</html>

@@ -1,0 +1,11 @@
+package aa.bb.cc;
+
+public class A {
+
+	public int a = 20;
+	
+	public void doPrint() {
+		System.out.println("A 클래스 입니다.");
+	}
+	
+}

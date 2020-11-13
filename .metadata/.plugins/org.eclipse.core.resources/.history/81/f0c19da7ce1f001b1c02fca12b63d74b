@@ -1,0 +1,26 @@
+package com.mh.org;
+
+@WebServlet("/List")
+public class List extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+
+	public List() {
+        super();
+    }
+
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		
+		// ctrl + shift + o import 자동가져오기 및 정리
+		DBManager dbm = new DBManager();
+		ArrayList<Member> al = dbm.select();
+	}
+
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		doGet(request, response);
+	}
+
+}
+
+
+
+

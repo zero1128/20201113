@@ -1,0 +1,37 @@
+package com.mh.org;
+
+import java.io.IOException;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+@WebServlet("/HobbyServlet")
+public class HobbyServlet extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+       
+    public HobbyServlet() {
+        super();
+    }
+
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+//		response.getWriter().append("Served at: ").append(request.getContextPath());
+		
+		String pname = request.getParameter("name");
+		String[] phobby = request.getParameterValues("hobby");
+		
+		System.out.println("pname = "+ pname);
+		for(int i =0; i<phobby ; i++) {
+			System.out.println("phobby = "+ phobby);
+		}
+		
+//		System.out.println("get 방식 요청됨");
+	}
+
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		doGet(request, response);
+//		System.out.println("post 방식 요청됨");
+	}
+
+}

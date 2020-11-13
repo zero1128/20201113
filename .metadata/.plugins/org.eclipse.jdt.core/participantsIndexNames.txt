@@ -1,0 +1,19 @@
+INDEX VERSION 1.131
+D:\stsmhwork\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\809011903.index
+\20201111\src
+D:\stsmhwork\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2586870218.index
+\20201102\src
+D:\stsmhwork\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3953272260.index
+\20201109\src
+D:\stsmhwork\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3827835098.index
+\20201102-01\src
+D:\stsmhwork\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3791269525.index
+\20201104_1\src
+D:\stsmhwork\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2237607635.index
+\chap04\src
+D:\stsmhwork\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2600842153.index
+\20201110-1\src
+D:\stsmhwork\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2879243984.index
+\20201110\src
+D:\stsmhwork\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\26594725.index
+\20201103\src

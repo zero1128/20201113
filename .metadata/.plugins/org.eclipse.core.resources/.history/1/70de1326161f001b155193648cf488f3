@@ -1,0 +1,16 @@
+package com.mh.org.bean;
+
+public class Member {
+	String pname;
+	String pgender;
+	String pid;
+	String ppwd;
+	String pcpwd;
+	String paddr;
+	String pphone;
+	String pemail;
+	String phobby;
+	// alt + shift + s
+	
+
+}

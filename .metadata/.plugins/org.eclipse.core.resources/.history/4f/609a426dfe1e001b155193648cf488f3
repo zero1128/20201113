@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<form action="Join">
+	<table>
+		<tr><td>이름</td><td><input type="text" name="name"/></td></tr>
+		<tr><td>이름</td><td><input type="text" name="name"/></td></tr>
+		<tr><td>이름</td><td><input type="text" name="name"/></td></tr>
+		<tr><td>이름</td><td><input type="text" name="name"/></td></tr>
+		<tr><td>이름</td><td><input type="text" name="name"/></td></tr>
+		<tr><td>이름</td><td><input type="text" name="name"/></td></tr>
+		<tr><td>이름</td><td><input type="text" name="name"/></td></tr>
+		<tr><td>이름</td><td><input type="text" name="name"/></td></tr>
+		<tr><td>이름</td><td><input type="text" name="name"/></td></tr>
+		<tr><td>이름</td><td><input type="text" name="name"/></td></tr>
+	</table>
+	<input type="submit" value="회원가입"/>
+</form>
+</body>
+</html>

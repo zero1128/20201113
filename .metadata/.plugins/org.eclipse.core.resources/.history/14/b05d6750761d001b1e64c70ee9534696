@@ -1,0 +1,14 @@
+package aa.bb.cc;
+
+public class A {
+
+	public int a;
+	
+	public void doPrint() {
+		System.out.println("A 클래스 입니다.");
+		System.out.println("a = "+a);
+		int b;
+		System.out.println("b =" + b);
+	}
+	
+}
